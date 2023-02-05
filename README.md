@@ -1,3 +1,5 @@
+##Team Alpha Coders T22 
+##Team Members: Meet Dama, Kush Mehta, Tanishka Borkar
 # Tweetralize
 Generally speaking, social media sites have access to a lot of our personal data that is kept on centralised servers that are vulnerable to security risks. Additionally, the consumer is given less transparency and control. The application's controller has the discretion to suspend his or her account. Taking into account the give problem statement, create a decentralised platform that enables people to express their thoughts and emotions online.
 
