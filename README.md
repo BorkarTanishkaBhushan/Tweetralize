@@ -68,5 +68,9 @@ Interoperability with Other Decentralized Systems: The system could be designed 
 Machine Learning and AI: Advanced machine learning and AI algorithms could be integrated to improve the quality of recommendations, moderation, and content discovery.
 
 
+##References
 
+1. Pinata: https://www.pinata.cloud/
+2. IPFS: https://docs.ipfs.tech/
+3. HardHat :https://hardhat.org/
 
